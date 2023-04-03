@@ -1,0 +1,76 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	background-color: #525252;
+	color: white;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav ul li.active a {
+	font-weight: bold;
+}
+
+main {
+	margin: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+.artikel {
+  text-align: justify;
+  margin-right: 250px;
+}
+
+.komang {
+  text-align: justify;
+  margin-right: 250px;
+  margin-left: 15px;
+}
+
+.angin {
+  text-align: justify;
+  margin-right: 250px;
+  margin-left: 15px;
+}
+
+.runtuh {
+  text-align: justify;
+  margin-right: 250px;
+  margin-left: 15px;
+}
+
+.serana {
+  text-align: justify;
+  margin-right: 250px;
+  margin-left: 15px;
+}
+
+
+
+
+
+
